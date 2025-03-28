@@ -1,9 +1,7 @@
 # Bankruptcy Predictor
 This project provides a machine learning-powered credit risk prediction API that determines the likelihood of a customer declaring bankruptcy. The API is built using FastAPI, XGBoost, and Docker, with deployment on Google Cloud Run.
 
-##Features
-
-
+Features
 1. Accepts CSV file input with financial data
 2. Validates the file for required data
 3. Makes a prediction using the XGBoost
